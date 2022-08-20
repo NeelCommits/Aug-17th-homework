@@ -1,0 +1,15 @@
+h3{
+	font-size: 50px;
+	color: greenyellow;
+}
+.heading_1{
+	background-color: lightgoldenrodyellow;
+}
+#text1{
+	border: 5px dotted grey;
+}
+.box{
+	width: 100px;
+	height: 120px;
+	background-color:royalblue;
+}
